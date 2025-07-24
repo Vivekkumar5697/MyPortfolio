@@ -12,7 +12,7 @@
     "imageSrc": "projects/project.png",
     "description": "A responsive personal portfolio showcasing my projects, skills, and achievements in web development, DSA, and more.",
     "skills": ["React", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://gentle-gaufre-ba77a4.netlify.app/",
     "source": "https://github.com/vivekkumar5697"
   }
 ]
