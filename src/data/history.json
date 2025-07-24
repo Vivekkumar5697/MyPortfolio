@@ -1,0 +1,27 @@
+[
+  {
+  "role": "Class Representative (CR)",
+  "organisation": "RGUKT Basar",
+  "startDate": "2023",
+  "endDate": "Present",
+  "experiences": [
+    "Acted as a bridge between faculty and 70+ students",
+    "Coordinated academic announcements and team discussions",
+    "Helped resolve student concerns with clear communication"
+  ],
+  "imageSrc": "history/image.jpeg"
+}
+,
+{
+  "role": "Full-Stack Developer Intern",
+  "organisation": "Skolar",
+  "startDate": "May, 2024",
+  "endDate": "July, 2024",
+  "experiences": [
+    "Completed a full-stack development internship covering React, Node.js, MongoDB, and Express",
+    "Built responsive web apps and practiced real-world API integration"
+  ],
+  "imageSrc": "history/skolar.jpeg"
+}
+
+]

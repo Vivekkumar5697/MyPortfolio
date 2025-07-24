@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Lost And Found",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack MERN web app that helps users report and recover lost or found items with real-time updates and a clean, user-friendly interface.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://lost-and-found-app-frontend.vercel.app",
+    "source": "https://github.com/vivekkumar5697"
+  },
+  {
+    "title": "My Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A responsive personal portfolio showcasing my projects, skills, and achievements in web development, DSA, and more.",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/vivekkumar5697"
+  }
+]
